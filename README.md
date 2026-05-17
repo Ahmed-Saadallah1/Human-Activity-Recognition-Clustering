@@ -100,10 +100,3 @@ Markdown analysis cells throughout the notebook address:
 - `scikit-learn` — KMeans, GaussianMixture, AgglomerativeClustering, Birch, PCA, StandardScaler, silhouette_score
 - `matplotlib`, `seaborn`
 
----
-
-## Team
-
-German International University — Informatics and Computer Science
-**Introduction to Data Science, Spring 2026 — Project 3**
-*Uncovering Patterns in Human Motion*
